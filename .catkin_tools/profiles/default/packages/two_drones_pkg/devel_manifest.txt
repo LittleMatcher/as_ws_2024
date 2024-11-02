@@ -1,0 +1,7 @@
+two_drones_pkg
+/home/robot/Desktop/TUM/24w/as_ws/devel/.private/two_drones_pkg/cmake.lock /home/robot/Desktop/TUM/24w/as_ws/devel/./cmake.lock
+/home/robot/Desktop/TUM/24w/as_ws/devel/.private/two_drones_pkg/lib/pkgconfig/two_drones_pkg.pc /home/robot/Desktop/TUM/24w/as_ws/devel/lib/pkgconfig/two_drones_pkg.pc
+/home/robot/Desktop/TUM/24w/as_ws/devel/.private/two_drones_pkg/lib/two_drones_pkg/plots_publisher_node /home/robot/Desktop/TUM/24w/as_ws/devel/lib/two_drones_pkg/plots_publisher_node
+/home/robot/Desktop/TUM/24w/as_ws/devel/.private/two_drones_pkg/lib/two_drones_pkg/frames_publisher_node /home/robot/Desktop/TUM/24w/as_ws/devel/lib/two_drones_pkg/frames_publisher_node
+/home/robot/Desktop/TUM/24w/as_ws/devel/.private/two_drones_pkg/share/two_drones_pkg/cmake/two_drones_pkgConfig.cmake /home/robot/Desktop/TUM/24w/as_ws/devel/share/two_drones_pkg/cmake/two_drones_pkgConfig.cmake
+/home/robot/Desktop/TUM/24w/as_ws/devel/.private/two_drones_pkg/share/two_drones_pkg/cmake/two_drones_pkgConfig-version.cmake /home/robot/Desktop/TUM/24w/as_ws/devel/share/two_drones_pkg/cmake/two_drones_pkgConfig-version.cmake

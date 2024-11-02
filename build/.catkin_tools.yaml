@@ -1,0 +1,6 @@
+devel_space: /home/robot/Desktop/TUM/24w/as_ws/devel
+install: false
+install_space: /home/robot/Desktop/TUM/24w/as_ws/install
+profile: default
+source_space: /home/robot/Desktop/TUM/24w/as_ws/src
+workspace: /home/robot/Desktop/TUM/24w/as_ws

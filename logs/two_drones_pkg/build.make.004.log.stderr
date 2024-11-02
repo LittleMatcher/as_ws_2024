@@ -1,0 +1,12 @@
+[01m[K/home/robot/Desktop/TUM/24w/as_ws/src/two_drones_pkg/src/frames_publisher_node.cpp:[m[K In member function ‘[01m[Kvoid FramesPublisherNode::onPublish(const ros::TimerEvent&)[m[K’:
+[01m[K/home/robot/Desktop/TUM/24w/as_ws/src/two_drones_pkg/src/frames_publisher_node.cpp:61:64:[m[K [01;31m[Kerror: [m[Kexpected ‘[01m[K)[m[K’ before ‘[01m[K;[m[K’ token
+   61 |     AV2World.setOrigin[34m[K([m[Ktf::Vector3(sin(time), 0.0, cos(2*time))[01;31m[K;[m[K
+      |                       [34m[K~[m[K                                        [01;31m[K^[m[K
+      |                                                                [32m[K)[m[K
+[01m[K/home/robot/Desktop/TUM/24w/as_ws/src/two_drones_pkg/src/frames_publisher_node.cpp:73:5:[m[K [01;31m[Kerror: [m[K‘[01m[Kbr[m[K’ was not declared in this scope; did you mean ‘[01m[Kbrk[m[K’?
+   73 |     [01;31m[Kbr[m[K.sendTransform(tf::StampedTransform(AV1World, ros::Time::now(), "world", "av1"));
+      |     [01;31m[K^~[m[K
+      |     [32m[Kbrk[m[K
+make[2]: *** [CMakeFiles/frames_publisher_node.dir/build.make:63: CMakeFiles/frames_publisher_node.dir/src/frames_publisher_node.cpp.o] Error 1
+make[1]: *** [CMakeFiles/Makefile2:214: CMakeFiles/frames_publisher_node.dir/all] Error 2
+make: *** [Makefile:141: all] Error 2

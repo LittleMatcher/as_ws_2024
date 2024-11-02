@@ -1,0 +1,5 @@
+Symlinking /home/robot/Desktop/TUM/24w/as_ws/devel/lib/pkgconfig/two_drones_pkg.pc
+Symlinking /home/robot/Desktop/TUM/24w/as_ws/devel/lib/two_drones_pkg/plots_publisher_node
+Symlinking /home/robot/Desktop/TUM/24w/as_ws/devel/lib/two_drones_pkg/frames_publisher_node
+Symlinking /home/robot/Desktop/TUM/24w/as_ws/devel/share/two_drones_pkg/cmake/two_drones_pkgConfig.cmake
+Symlinking /home/robot/Desktop/TUM/24w/as_ws/devel/share/two_drones_pkg/cmake/two_drones_pkgConfig-version.cmake

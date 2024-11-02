@@ -1,0 +1,5 @@
+[35m[1mScanning dependencies of target frames_publisher_node[0m
+[ 25%] [32mBuilding CXX object CMakeFiles/frames_publisher_node.dir/src/frames_publisher_node.cpp.o[0m
+[ 75%] Built target plots_publisher_node
+[100%] [32m[1mLinking CXX executable /home/robot/Desktop/TUM/24w/as_ws/devel/.private/two_drones_pkg/lib/two_drones_pkg/frames_publisher_node[0m
+[100%] Built target frames_publisher_node
