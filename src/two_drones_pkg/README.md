@@ -100,20 +100,11 @@ plots_publisher_node.cpp
 
 > Ref [https://wiki.ros.org/tf/Tutorials/Writing%20a%20tf%20listener%20%28C%2B%2B%29#](https://wiki.ros.org/tf/Tutorials/Writing%20a%20tf%20listener%20%28C++%29#)
 ## 4. Result
-Deliverable 1 - Nodes, topics, launch files (this is just for yourself - you do not actually need to delivere this)
-### 4.1 Deliverable 1 - Nodes, topics, launch files (this is just for yourself - you do not actually need to delivere this)
-### 4.1.1 Nodes List
-![在这里插入图片描述](https://i-blog.csdnimg.cn/direct/77b88192daab4c3b9aee7e681c330381.png)
-### 4.1.2 
-![在这里插入图片描述](https://i-blog.csdnimg.cn/direct/52031c93ee8c417fb1c7f9b1753d223f.png)
-### 4.1.3
-![在这里插入图片描述](https://i-blog.csdnimg.cn/direct/6195a425f6f042c29fa3f356277a4793.png)
-
-### 4.2 Deliverable 2 - Publishing transforms (30 pts)
-![在这里插入图片描述](https://i-blog.csdnimg.cn/direct/98a119161bd147c891eed3c7b14169c0.png)
-![在这里插入图片描述](https://i-blog.csdnimg.cn/direct/b5a3ff67580d4b0480baac2c9ea41eeb.gif#pic_center)
+### 4.1 Deliverable 2 - Publishing transforms (30 pts)
+![Click to Gif](https://i-blog.csdnimg.cn/direct/b5a3ff67580d4b0480baac2c9ea41eeb.gif#pic_center)
+Click to Gif
 ### 4.2 Deliverable 3 - Looking up a transform (30 pts)
-![在这里插入图片描述](https://i-blog.csdnimg.cn/direct/09bfe3ae865f4dc5a980b633497e1e09.gif#pic_center)
-
+![Click to Gif](https://i-blog.csdnimg.cn/direct/09bfe3ae865f4dc5a980b633497e1e09.gif#pic_center)
+Click to Gif
 
 
